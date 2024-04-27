@@ -238,6 +238,8 @@ button {
 .call-text {
     /* border: 3px solid lightcoral; */
     color: #E5E7EB;
+    font-size: 18px;
+    font-weight:300;
 }
 
 .call-to-action .signup button {
@@ -246,8 +248,13 @@ button {
 
 .footer-container {
     /* border: 3px solid red; */
+    padding: 43px 0px;
+    display: flex;
+    justify-content: center;
 }
 
 .footer {
     /* border: 3px solid blue; */
+    font-size: 18px;
+    font-weight: 300;
 }
