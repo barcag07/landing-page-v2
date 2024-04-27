@@ -6,6 +6,11 @@
     /* outline: 3px solid red; */
 }
 
+a {
+    text-decoration: none;
+    color: white;
+}
+
 .header-container,
 .hero-container,
 .footer-container {
@@ -41,7 +46,6 @@
     font-size: 24px;
     /* outline: 3px solid yellow; */
     font-weight: 600;
-
 }
 
 .header-links-container {
